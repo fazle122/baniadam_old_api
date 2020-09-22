@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268512328679",
+    "firebase_url": "https://hr-app-f61b0.firebaseio.com",
+    "project_id": "hr-app-f61b0",
+    "storage_bucket": "hr-app-f61b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268512328679:android:986627f54c885238319b42",
+        "android_client_info": {
+          "package_name": "com.ideaxen.apps.hr.baniadam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268512328679-nrreeoqt34754an6jadhlr5d5haie1qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGSAJ23RQkSN5PniI4tc5uRBMZxZJTZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268512328679-nrreeoqt34754an6jadhlr5d5haie1qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
